@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleExecutable</key>
+	<string></string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>We use the microphone to record your voice when answering interview questions, allowing you to practice speaking your answers out loud. This helps you improve your verbal communication skills for technical interviews. We will not store your audio recordings.</string>
+	<key>CFBundleIdentifier</key>
+	<string></string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>App uses speech recognition to process your voice input.</string>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>audio</string>
+	</array>
+</dict>
+</plist>

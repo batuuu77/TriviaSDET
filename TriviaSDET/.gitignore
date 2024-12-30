@@ -1,0 +1,5 @@
+.env
+.DS_Store
+xcuserdata/
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/ 
